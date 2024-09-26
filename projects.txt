@@ -1,0 +1,30 @@
+{
+"projects": 
+	[
+		{
+			"project_title": "App 1",
+			"project_breif": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+		},
+		
+		{ 
+                        "project_title": "App 2",
+                        "project_breif": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                },
+	{ 
+                        "project_title": "App 3",
+                        "project_breif": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                },
+
+{ 
+                        "project_title": "App 4",
+                        "project_breif": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                },
+
+{ 
+                        "project_title": "App 5",
+                        "project_breif": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                }
+	
+	
+	]
+}
