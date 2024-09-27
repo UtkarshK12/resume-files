@@ -1,5 +1,5 @@
 {
-"projects": 
+"blogs": 
 	[
 		{
 			"blogs_title": "App 1",
