@@ -1,5 +1,5 @@
 {
 "name": "Utkarsh",
-"about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+"about":"As a passionate backend developer with a growing frontend skillset, I bring a unique blend of technical expertise and creative problem-solving to every project. A 2021 graduate from IIT Delhi, I was recruited by Accenture Japan on campus. I've been honing my skills in Java, Spring boot, Python, Relational Databases, Bash Scripting, Messaging systems etc. When I'm not coding, you'll find me solving chess puzzles, enjoying outdoor sports, or exploring the latest in cinema. My commitment to continuous learning drives me to regularly engage with coding challenges and read blogs to stay abreast of emerging tech trends. I'm always eager to collaborate on innovative projects or discuss the latest in tech – so feel free to reach out and connect!"
 
 }
