@@ -42,11 +42,14 @@
       "location": "Delhi, India",
       "duration": "May 2020 – Jun 2020",
       "position": "Software Engineering Intern",
-      "description": [
-        "Developed an Android social media application in Flutter from scratch which also provided AI driven analytics tools.",
-        "Integrated REST APIs with the flutter application using the Business Logic Component architecture pattern.",
-        "Implemented responsive and beautiful front-end for various sections of the platform like Tools, Posts, Profile, Quiz etc."
+      "description": 
+	
+	[
+        {"text":"Developed an Android social media application in Flutter from scratch which also provided AI driven analytics tools."},
+        {"text":"Integrated REST APIs with the flutter application using the Business Logic Component architecture pattern."},
+       { "text":"Implemented responsive and beautiful front-end for various sections of the platform like Tools, Posts, Profile, Quiz etc."}
       ]
+
     }
   ]
 }
