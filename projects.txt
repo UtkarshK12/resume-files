@@ -2,13 +2,16 @@
 "projects": 
 	[
 		{
-			"project_title": "App 1",
-			"project_breif": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+			"project_title": "Finaco",
+			"project_breif": "App to divide expenses among 2 people",
+			"project_url": "https://github.com/UtkarshK12/finaco-frontend"
 		},
 		
 		{ 
                         "project_title": "App 2",
-                        "project_breif": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                        "project_breif": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+			"project_url": "https://github.com/UtkarshK12/finaco-frontend"
+			
                 }
 	
 	
