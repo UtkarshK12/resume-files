@@ -1,24 +1,19 @@
 {
-"projects": 
-	[
-		{
-			"project_title": "Finaco",
-			"project_breif": "After splitwise (A popular bill splitting application) became paid, I created a 2 person bill splitting app to manage my bills with my friend.",
-			"project_url": "https://github.com/UtkarshK12/finaco-frontend"
-		},
-		{
-			"project_title": "Portfolio",
-			"project_breif": "A portfolio website that fetches information from Github repository and renders content. Created using React, Typescript, TailwindCSS and hosted on github pages.",
-			"project_url": "https://github.com/UtkarshK12/portfolio"
-		},
-		
-		{ 
-                        "project_title": "QA Dashboard",
-                        "project_breif": "QA Dashboard for communication industry client POC. Developed using Vue and ElementUI ",
-			"project_url": "https://github.com/UtkarshK12/Vue-Chart-ElementUI"
-			
-                }
-	
-	
-	]
+  "projects": [
+    {
+      "project_title": "Finaco",
+      "project_breif": "After splitwise (A popular bill splitting application) became paid, I created a 2 person bill splitting app to manage my bills with my friend.",
+      "project_url": "https://github.com/UtkarshK12/finaco-frontend"
+    },
+    {
+      "project_title": "Portfolio",
+      "project_breif": "A portfolio website that fetches information from Github repository and renders content. Created using React, Typescript, TailwindCSS and hosted on github pages.",
+      "project_url": "https://github.com/UtkarshK12/portfolio"
+    },
+    {
+      "project_title": "QA Dashboard",
+      "project_breif": "QA Dashboard for communication industry client POC. Developed using Vue and ElementUI",
+      "project_url": "https://github.com/UtkarshK12/Vue-Chart-ElementUI"
+    }
+  ]
 }
