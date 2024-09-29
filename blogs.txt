@@ -5,15 +5,6 @@
 			"blogs_title": "The Hitchhiker`s Guide to Jenkins",
 			"blogs_detail": "a beginner’s guide to Object oriented programming in Jenkins",
 			"blogs_url":"https://blog.devops.dev/the-hitchhiker-s-guide-to-jenkins-89f910c9bf00"
-		},
-		{
-			"blogs_title": "The Hitchhiker`s Guide to Jenkins",
-			"blogs_detail": "a beginner’s guide to Object oriented programming in Jenkins",
-			"blogs_url":"https://blog.devops.dev/the-hitchhiker-s-guide-to-jenkins-89f910c9bf00"
-		},
-		{ 
-                        "blogs_title": "App 2",
-                        "blogs_detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-                }
+		}
 	]
 }
