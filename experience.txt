@@ -2,7 +2,7 @@
     "experience": [
         {
             "company": "Accenture",
-            "position": "Business and Integration Arch Analyst",
+            "position": "Business and Integration Arch Senior Analyst",
             "location": "Tokyo, Japan",
             "duration": "Jan, 2021 - Present",
             "description": [
