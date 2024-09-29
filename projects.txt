@@ -8,7 +8,7 @@
 		},
 		{
 			"project_title": "Portfolio",
-			"project_breif": "A portfolio website that fetches information from Github repository and renders content. Created 			using React, Typescript, TailwindCSS and hosted on github pages.",
+			"project_breif": "A portfolio website that fetches information from Github repository and renders content. Created using React, Typescript, TailwindCSS and hosted on github pages.",
 			"project_url": "https://github.com/UtkarshK12/portfolio"
 		},
 		
