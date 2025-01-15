@@ -5,6 +5,11 @@
 			"blogs_title": "The Hitchhiker`s Guide to Jenkins",
 			"blogs_detail": "a beginner’s guide to Object oriented programming in Jenkins",
 			"blogs_url":"https://blog.devops.dev/the-hitchhiker-s-guide-to-jenkins-89f910c9bf00"
+		},
+		{
+			"blogs_title": "Building my own Redis",
+			"blogs_detail": "Guide to writing a Redis DB server with features like ping, echo, get, set, expiry and ability to handle multiple concurrent users while providing atomic operations.",
+			"blogs_url":"https://medium.com/@utkarsh.iit.delhi/building-my-own-redis-086e06121e6f"
 		}
 	]
 }
