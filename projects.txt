@@ -1,6 +1,11 @@
 {
   "projects": [
     {
+      "project_title": "Creating my own Redis",
+      "project_breif": "Created my own redis like In-Mem DB server with support for multiple connections and RESP wire protocol. This project supports PING, ECHO, SET, SET PX, GET commands. ",
+      "project_url": "https://github.com/UtkarshK12/redis-lite-v2.git"
+    },
+    {
       "project_title": "Finaco",
       "project_breif": "After splitwise (A popular bill splitting application) became paid, I created a 2 person bill splitting app to manage my bills with my friend.",
       "project_url": "https://github.com/UtkarshK12/finaco-frontend"
